@@ -213,6 +213,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 45px;
     font-family: 'Courier New', Courier, monospace;
+    margin-left: -400px
+    
 }
