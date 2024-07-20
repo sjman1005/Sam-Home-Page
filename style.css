@@ -211,10 +211,7 @@ body{
     to { width: 100% }
   }
 
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #fff; }
-  }
+ 
 
 .redirect-message{
     position: absolute;
