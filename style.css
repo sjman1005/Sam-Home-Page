@@ -70,6 +70,7 @@ body{
 .clock .clock-bg img{
     width: 100%;
     height: 100%;
+    
 }
 
 .clock::before{
@@ -164,6 +165,7 @@ body{
 .google-icon{
     padding: 15px;
     
+    
 }
 
 .insta-icon{
@@ -186,6 +188,12 @@ body{
 .music-player{
     padding: 15px
 }
+
+.whatsapp{
+    padding: 15px;
+}
+
+
 
 .wel-msg h1 {
     overflow: hidden; /* Ensures the content is not revealed until the animation */
